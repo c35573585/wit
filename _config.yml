@@ -4,8 +4,8 @@
 title: Evangeline
 description: Evangeline's blog
 keywords: Evangeline,wit,blog
-baseurl:  /wwit # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: http://c35573585.github.io/wit/  # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl:  /wit # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://c35573585.github.io/wit/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /wit/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
