@@ -1,0 +1,43 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Stock Database Hardware and Software
+  i18n: stk
+#  gh_user: jarrekk
+#  repo: Jalpc
+  img: /static/assets/img/landing/stock.jpg
+  desc: In the process, I had to assist financial department choose the best solution and I did the Hardware and Software settings.
+
+- name: Data Center Database Hardware and Software Improvement Plan
+  i18n: dc
+#  gh_user: python
+#  repo: cpython
+  img: /static/assets/img/landing/dc.png
+  desc: These databases are used the most frequently. There are many application connected with these databases would be released, but they couldn't oprate successfully.
+
+- name: Data Center High Available Improvement Plan
+  i18n: dcha
+#  gh_user: python
+#  repo: cpython
+  img: /static/assets/img/landing/ha.png
+  desc: There were only two active node before. Fail over couldn't oprate successfully.
+
+- name: B2B Database Hardware and Software Migration Plan
+  i18n: b2b
+#  gh_user: python
+#  repo: cpython
+  img: /static/assets/img/landing/b2b.jpg
+  desc: This project is a special case about building high availability with IBM power6 and IBM power8. 
+
+- name: ASRS Database Hardware and Software Improvement Plan
+  i18n: asrs
+#  gh_user: python
+#  repo: cpython
+  img: /static/assets/img/landing/asrs.png
+  desc: Old, Single server and oracle 9i, it was the worst equipment at the company.
+ 
+#- name: Google
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+#  desc: This is another project. 

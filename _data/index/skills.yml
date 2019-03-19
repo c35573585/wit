@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: GitHub, HTML/CSS, Oracle, MSSQL, Unix/Shell, Sleeping, Travel
+percentage: 80, 75, 80, 80, 70, 100, 95

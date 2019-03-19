@@ -1,0 +1,74 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Evangeline
+description: Evangeline's blog
+keywords: Evangeline,c35573585,blog
+baseurl:  /c35573585 # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: http://c35573585.github.io/c35573585/  # url should be 'http://<github_username>.github.io/homepage' as before
+# url: http://127.0.0.1:4000
+img_path: /c35573585/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: GitHub  # Be used at blog posts' author.
+  first_name: Evangeline  # Be used at index page about me section.
+  last_name: Wang  # Be used at index page about me section.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  github_username: c35573585  # Leave blank if you don't have now
+  linkedin_id: i-ting-wang-b08529172 # Leave blank if you don't have now
+  facebook_username: 100001645923100  # Leave blank if you don't have now
+  email: c35573585@yahoo.com.tw;13127951436@qq.com  # Leave blank if you don't have now
+  #twitter_username: jiakun614  # Leave blank if you don't have now
+  #cv: http://cv.c35573585.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: icon-shell
+#    - name: icon-mssql
+#    - name: icon-oracle
+    - name: fa-database
+  skill_icon2:
+    - name: fa-linux
+#    - name: icon-css3
+#    - name: icon-html5
+    - name: icon-unity
+  desc: I am a DBA and System Enginner. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.   # Describe yourself.
+
+# comment
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#  name: Evangeline
+
+# analytics
+## google analytics
+#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+#  id: UA-93473370-3
+
+## google optimize
+#go:
+  # id:
+
+## growingIO
+#gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## donation
+#donation: on  # type 'on'/'off' to choice display donation button at post page or not
+
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+

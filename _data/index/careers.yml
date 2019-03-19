@@ -1,0 +1,43 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Left ASE Group
+    i18n: company_a
+  desc:
+    detail: I am so curious about the database architecture of other companies.  
+    i18n: company_a_desc
+  date:
+    detail: Oct. 2018
+    i18n: company_a_date
+  job:
+    detail: DBA
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: ASE Group
+    i18n: company_b
+  desc:
+    detail: I worked at ASE Group. I started to deal with Unix and Windows servers, matain Oracle and Mssql databases.
+    i18n: company_b_desc
+  date:
+    detail: Apr. 2016
+    i18n: company_b_date
+  job:
+    detail: DBA
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Graduation
+    i18n: company_c
+  desc:
+    detail: At July 2014, I graduated from National United University with a major in the Department of Information Management.
+    i18n: company_c_desc
+  date:
+    detail: Jul. 2014
+    i18n: company_c_date
+  job:
+    detail: Student
+    i18n: company_c_job
+  icon: fa-plus-square
