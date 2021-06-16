@@ -1,13 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Left ASE Group
+    detail: Esun Bank
     i18n: company_a
   desc:
-    detail: I am so curious about the database architecture of other companies.  
+    detail: I am the only one database administrator here. Mantain Oracle and Mssql databases.
     i18n: company_a_desc
   date:
-    detail: Oct. 2018
+    detail: May 2019
     i18n: company_a_date
   job:
     detail: DBA
@@ -18,7 +18,7 @@
     detail: ASE Group
     i18n: company_b
   desc:
-    detail: I worked at ASE Group. I started to deal with Unix and Windows servers, matain Oracle and Mssql databases.
+    detail: I worked at ASE Group. I started to deal with Unix and Windows servers, mantain Oracle and Mssql databases.
     i18n: company_b_desc
   date:
     detail: Apr. 2016
